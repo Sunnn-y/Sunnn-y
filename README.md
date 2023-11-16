@@ -1,28 +1,17 @@
 ### Hi there 👋
 
-<div align=center>
+[![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://geonlee.tistory.com/)](https://geonlee.tistory.com/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/)](https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)](https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
-</div>
+* 💻 아직 배울게 많은 주니어 웹 프론트엔드 엔지니어입니다.
+* 🎨 유저를 생각하며 UI/UX 디자인에 관심이 많습니다.
+* 😎 나만의 일을 찾기위해 열심히 노력중입니다.
 
-### Machine Learning Engineer, Engineering Manager
-- Machine Learing Engineer, Engineering Manager
-- I organize a group of developers who write blog posts - 글쓰는 개발자 모임, [글또](https://bit.ly/geultto)
-- [PM을 위한 데이터 리터러시](https://inf.run/MXw2) 강의를 인프런에 냈습니다!
+**언어 및 도구**  
 
-### Interest
-- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
-- Google Cloud Platform(Especially, BigQuery)
-- Operation Research
-- Leadership, Mentoring, Writing, Presentation
-
-<div align=center>
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/) 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)](https://www.instagram.com/data.scientist/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
-</div>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
