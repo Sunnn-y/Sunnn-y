@@ -1,16 +1,11 @@
 ### Hi there 👋
 
-[![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://geonlee.tistory.com/)](https://geonlee.tistory.com/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/)](https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)](https://www.notion.so/Geon-Lee-0a2ead807ec24791b5f75a5d0974fca8)
+ [![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://odd-stork-28b.notion.site/Portfolio-e76f9c53935443c7869cf8d57b29fee3?pvs=4)](https://odd-stork-28b.notion.site/Portfolio-e76f9c53935443c7869cf8d57b29fee3?pvs=4)
 
 
-* 💻 아직 배울게 많은 데이터 분석가입니다.
-* 😎 나만의 일을 찾기위해 열심히 노력중입니다.
+* 💻 준비된 데이터 분석가입니다.
+* 📝 끈질기고 우직하게 데이터를 봅니다.
+* 👩‍💻 꾸준히 성장하기 위해 노력중입니다.
 
-**언어 및 도구**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
+
