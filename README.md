@@ -8,4 +8,4 @@
 * 👩‍💻 꾸준히 성장하기 위해 노력중입니다.
 
 
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
