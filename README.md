@@ -6,8 +6,7 @@
 * 💻 준비된 데이터 분석가입니다.
 * 📝 끈질기고 우직하게 데이터를 봅니다.
 * 👩‍💻 꾸준히 성장하기 위해 노력중입니다.
-
-
+<br><br/>
 <code><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/Google Data Studio-669DF6?style=flat-square&logo=Google Data Studio&logoColor=white"/></code>
